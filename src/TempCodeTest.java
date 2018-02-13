@@ -3,8 +3,8 @@ public class TempCodeTest {
 
 	public static void main(String[] args) {
 		
-	   /* String constantPath="/apps_autofs/recovery/ENTERPRISE/opsdba/";
-	    String backupFilePath=null;
+	   /* String constantPath="/apps_autofs/recovery/ENTERPRISE/opsdba/"; */
+	   /* String backupFilePath=null;
 		String activity="HR92";
 		if (activity.equalsIgnoreCase("HR92"))
 	    	backupFilePath=constantPath+"hrms/hrms92/zip/hc920mst*";
