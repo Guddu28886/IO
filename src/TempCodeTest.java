@@ -17,8 +17,8 @@ public class TempCodeTest {
 		else if(activity.equalsIgnoreCase("CS92"))
 			backupFilePath=constantPath+"cs/cs92/zip/cs920mst*";
 		else if(activity.equalsIgnoreCase("PS91"))
-			backupFilePath=constantPath+"ps/ps91/zip/pa920mst*";
-	    String command1="find "+backupFilePath+" -type f -mtime -1";
+			backupFilePath=constantPath+"ps/ps91/zip/pa920mst*"; */
+	    /* String command1="find "+backupFilePath+" -type f -mtime -1";
 	    System.out.println(command1); 
 		String build_Id="pt85514b";
 		String build_Number=build_Id.substring(5,7);
